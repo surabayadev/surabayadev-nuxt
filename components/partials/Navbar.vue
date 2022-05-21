@@ -11,6 +11,7 @@
 
       <div>
         <button type="button" class="bg-sbydev-secondary text-white">
+          <IconsCalendar />
           Login
         </button>
       </div>
