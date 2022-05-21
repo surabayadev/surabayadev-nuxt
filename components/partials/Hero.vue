@@ -1,9 +1,15 @@
 <template>
-  <div>Landing page</div>
+  <div>
+    Ini adalah Hero
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage',
+
 }
 </script>
+
+<style>
+
+</style>
