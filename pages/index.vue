@@ -2,7 +2,7 @@
   <div>
     <PartialsLandingSection>
       <div class="container mx-auto">
-        Komunitas IT Arek Suroboyo
+        <PartialsHero />
       </div>
     </PartialsLandingSection>
     

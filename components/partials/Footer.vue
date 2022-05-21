@@ -1,5 +1,5 @@
 <template>
-  <footer class="py-10 bg-green-500">
+  <footer class="py-10 bg-sbydev-primary">
     Ini Footer
   </footer>
 </template>

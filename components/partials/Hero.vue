@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="">
     Ini adalah Hero
   </div>
 </template>
