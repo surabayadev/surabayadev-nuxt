@@ -8,7 +8,6 @@ module.exports = {
         'sbydev-secondary': '#E9D31D'
       }
     },
-
   },
   variants: {
     extend: {},
