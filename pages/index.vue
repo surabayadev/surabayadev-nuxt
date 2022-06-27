@@ -72,6 +72,6 @@
 // This will also work in `<script setup>`
 definePageMeta({
   layout: "default",
-  title: 'My home page'
+  title: 'SurabayaDev - Beranda'
 });
 </script>
