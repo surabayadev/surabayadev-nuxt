@@ -12,8 +12,8 @@
         <!-- <a href="/about" class="pb-1 border-b-2 border-transparent hover:border-white">
           Tentang Kami
         </a> -->
-        <a href="/team" class="pb-1 border-b-2 border-transparent hover:border-white">
-          Team
+        <a href="/teams" class="pb-1 border-b-2 border-transparent hover:border-white">
+          Teams
         </a>
         <a href="/events" class="pb-1 border-b-2 border-transparent hover:border-white">
           Event
