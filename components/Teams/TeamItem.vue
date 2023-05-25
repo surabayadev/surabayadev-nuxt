@@ -3,10 +3,13 @@
     <div
       class="flex flex-col border rounded-lg overflow-hidden"
       v-for="team in teams">
-      <a href="#" class="flex h-60 md:h-72 mb-2 hover:opacity-70">
-        <!-- src={{ team.image }} -->
-        <img :src="team.image" class="object-cover" alt="SurabayaDev Event" />
-      </a>
+      <!-- <a href="#" class="flex mb-2 hover:opacity-70"> -->
+      <!-- src={{ team.image }} -->
+      <!-- </a> -->
+      <img
+        :src="team.image"
+        class="object-fill hover:opacity-70"
+        :alt="team.name + ' ' + team.role" />
       <div class="flex flex-col p-2 pb-6 bg-white">
         <a
           href=""
