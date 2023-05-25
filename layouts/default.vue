@@ -12,6 +12,8 @@ const route = useRoute()
 
       <MainNavbar />
 
+      <!-- <FooterSection/> -->
+
       <slot />
     </div>
   </div>

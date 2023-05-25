@@ -9,8 +9,11 @@
         <a href="/" class="pb-1 border-b-2 border-transparent hover:border-white">
           Beranda
         </a>
-        <a href="/about" class="pb-1 border-b-2 border-transparent hover:border-white">
+        <!-- <a href="/about" class="pb-1 border-b-2 border-transparent hover:border-white">
           Tentang Kami
+        </a> -->
+        <a href="/team" class="pb-1 border-b-2 border-transparent hover:border-white">
+          Team
         </a>
         <a href="/events" class="pb-1 border-b-2 border-transparent hover:border-white">
           Event
